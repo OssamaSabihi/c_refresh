@@ -1,0 +1,1 @@
+This project covers the fundamentals of the C Preprocessor, which is the macro processor that automatically transforms your source code before actual compilation begins. Understanding the preprocessor is critical for writing portable code, managing header file configurations, and creating reusable code macros.
